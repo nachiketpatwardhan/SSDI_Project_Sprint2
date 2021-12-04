@@ -25,7 +25,8 @@ const data = {
       brand: 'Lego',
       rating: 4.5,
       numReviews: 10,
-      description: 'For the cool kids. Only 75 of the real $1.2 million McLaren Senna GTR exist, but you can build your own with 830 plastic bricks and celebrate the world of insane track-only hypercars. The 814-hp Senna GTR is lighter, more powerful, and quicker than the already nutty McLaren Senna, and its serrated design looks sharp enough to cut air into slices. The finished Lego Senna GTR measures a foot in length, which is only three inches short of the real Sennas carbon ceramic brakes.'},
+      description: 'high quality product',
+    },
     {
       name: 'Aquaman Action Figure',
       category: 'toy',
@@ -35,7 +36,7 @@ const data = {
       brand: 'DC',
       rating: 4.0,
       numReviews: 10,
-      description: '100% Toy, Imported, From DC Comics New 52 comics, Based on designs by superstar artist Jim Lee artwork from Justice League Features a new take on the characters classic costume',
+      description: 'high quality product',
     },
     {
       name: 'Batman Action Figure',
@@ -46,7 +47,7 @@ const data = {
       brand: 'DC',
       rating: 4.8,
       numReviews: 17,
-      description: 'Great quality and craftsmanship. It is not designed or intended primarily for children 12 years of age or younger.',
+      description: 'high quality product',
     },
     {
       name: 'Cyborg Action Figure',
@@ -57,7 +58,7 @@ const data = {
       brand: 'DC',
       rating: 4.5,
       numReviews: 14,
-      description: 'Designed with Ultra Articulation with up to 22 moving parts for full range of posing and play',
+      description: 'high quality product',
     },
     {
       name: 'Lamborghini Lego',
@@ -68,7 +69,7 @@ const data = {
       brand: 'Lego',
       rating: 4.5,
       numReviews: 10,
-      description: 'Enjoy immersive building with this LEGO Technic Lamborghini Sián FKP 37 set 42115. Then explore the model car’s faithful features, including V12 engine with moving pistons, steering, and front and rear suspension',
+      description: 'high quality product',
     },
     {
       name: 'Lego Bat Mask',
@@ -79,7 +80,7 @@ const data = {
       brand: 'Lego',
       rating: 4.5,
       numReviews: 15,
-      description: 'This LEGO brick recreation of the unmistakable cowl worn by the Caped Crusader™ is sure to attract attention and admiration wherever it is placed. With transparent bricks to represent the face and a stylish fact plaque attached to the sturdy base, this remarkable model will provide a sense of fulfilment long after the construction work has finished',
+      description: 'high quality product',
     },
     {
       name: 'Lego BatJoker',

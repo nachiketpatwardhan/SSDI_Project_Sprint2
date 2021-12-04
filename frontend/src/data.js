@@ -10,7 +10,7 @@ const data = {
       brand: 'Lego',
       rating: 4.5,
       numReviews: 10,
-      description: 'For the cool kids. Only 75 of the real $1.2 million McLaren Senna GTR exist, but you can build your own with 830 plastic bricks and celebrate the world of insane track-only hypercars. The 814-hp Senna GTR is lighter, more powerful, and quicker than the already nutty McLaren Senna, and its serrated design looks sharp enough to cut air into slices. The finished Lego Senna GTR measures a foot in length, which is only three inches short of the real Sennas carbon ceramic brakes.',
+      description: 'high quality product',
     },
     {
       _id: '2',
